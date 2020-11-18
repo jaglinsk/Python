@@ -1,2 +1,2 @@
 # Python
-Home of personal python coding projects 
+Home of latest and greatest personal python coding projects 
